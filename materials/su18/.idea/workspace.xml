@@ -20,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="q32.ok" pinned="false" current-in-tab="true">
+      <file leaf-file-name="q32.ok" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab/lab01/tests/q32.ok">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -30,7 +30,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="seconds.ok" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab/lab01/tests/seconds.ok">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lab/lab01/tests/seconds.ok" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="122" />
@@ -334,6 +351,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/lab01/tests/seconds.ok">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
